@@ -1,1 +1,1 @@
-# basic_gdp_viz
+# Basic visualizations from manufacturing data
